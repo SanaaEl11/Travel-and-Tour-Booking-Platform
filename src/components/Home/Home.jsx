@@ -48,7 +48,7 @@ const Home = () => {
           <h3 className="total">$5000</h3>
           </div>
           <div className="input flex">
-            <input type="range" min="1000" max="5000" value="0" />
+            <input type="range" min="1000" max="5000"  />
           </div>
         </div>
         <div className="searchOptions flex" >
